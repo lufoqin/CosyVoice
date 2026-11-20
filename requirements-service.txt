@@ -1,0 +1,23 @@
+conformer==0.3.2
+diffusers==0.29.0
+einops>=0.8,<1
+fastapi==0.128.0
+HyperPyYAML==1.2.3
+inflect==7.3.1
+librosa==0.10.2
+lightning==2.2.4
+modelscope==1.20.0
+numpy==1.26.4
+omegaconf==2.3.0
+onnxruntime==1.23.2; sys_platform == 'darwin'
+onnxruntime-gpu==1.23.2; sys_platform == 'linux'
+openai-whisper==20250625
+openpyxl==3.1.5
+python-multipart==0.0.22
+soundfile==0.13.1
+torch==2.7.1
+torchaudio==2.7.1
+transformers==4.51.3
+uvicorn==0.30.0
+wetext==0.0.4
+x-transformers==2.11.24
